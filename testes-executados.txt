@@ -1,0 +1,3 @@
+Leilao (Model\Leilao)
+ [ ] Leilao deve receber lances
+
