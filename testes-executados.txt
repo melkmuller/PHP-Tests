@@ -1,3 +1,7 @@
 Leilao (Model\Leilao)
- [ ] Leilao deve receber lances
+ [ ] Leilao nao deve receber lances repetidos
+ [ ] Leilao nao deve aceitar mais de cinco lances por usuario
+
+Avaliador (Service\Avaliador)
+ [ ] Leilao vazio nao pode ser avaliado
 
